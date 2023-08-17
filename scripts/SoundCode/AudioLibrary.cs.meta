@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 23f99895614b49144a7a6f6046589e95
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumpClip: {fileID: 8300000, guid: 7e51376c8ba49e347bc482d5d0ce9d7c, type: 3}
+  - walkClip: {fileID: 8300000, guid: 9a4d423effc7fda49bb12a7ab88a8cb9, type: 3}
+  - hurtClip: {fileID: 8300000, guid: 9a0345656eef0774186c3f1cf17468f3, type: 3}
+  - deathClip: {fileID: 8300000, guid: 5663429c9f6668a4580a85c7aef7e35d, type: 3}
+  - lightAttack1Clip: {fileID: 8300000, guid: 725e46629d3edcd459cd1a82e04123a0, type: 3}
+  - lightAttack2Clip: {fileID: 8300000, guid: 42a9925560d6ac142a10ef76a1d46098, type: 3}
+  - lightAttack3Clip: {fileID: 8300000, guid: a9d7e05de9a3bf44ab71a1bf25934fd0, type: 3}
+  - heavyAttack1Clip: {fileID: 8300000, guid: f283b2fad1f66654bbc063fe182f2482, type: 3}
+  - heavyAttack2Clip: {fileID: 8300000, guid: 6fe0ef15c4145f54f9090f59d1692d45, type: 3}
+  - quickChantClip: {fileID: 8300000, guid: a532cb0f1e2cae049a7ee2d30d455c14, type: 3}
+  - heavyChantClip: {fileID: 8300000, guid: 19d80e0179d9cb84288c24e1687ba657, type: 3}
+  - meleeChantClip: {fileID: 8300000, guid: bef8bb660587edc44b1c82a9554df4f9, type: 3}
+  - projectileCollisionClip: {fileID: 8300000, guid: 7e4af3bacf98a0b4fa7474608de9a9f8, type: 3}
+  - enemyProjectileClip: {fileID: 8300000, guid: 9cdc664d3dd9b8e419a26553a193c730, type: 3}
+  - enemyDeathClip: {fileID: 8300000, guid: a8b67b50528709a42b266fed80e00df6, type: 3}
+  - collectablesCollectedClip: {fileID: 8300000, guid: 7c6ab9e4c9ee78d4eb2f6279df98a407, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
