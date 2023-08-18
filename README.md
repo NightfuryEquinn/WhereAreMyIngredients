@@ -20,6 +20,12 @@
 
 [Read here](https://github.com/NightfuryEquinn/WhereAreMyIngredients/blob/main/Quintets%20GDev%20Game%20Documentation%20-%20Where%20Are%20My%20Ingredients.pdf)
 
+<b>🎥 Videos:</b>
+
+[Game Trailer](https://www.youtube.com/watch?v=a_710vQIHGQ)
+
+[Gameplay Walkthrough](https://www.youtube.com/watch?v=LOwvhLabBwU)
+
 <hr/>
 
 <sup><b>❗️IMPORTANT:</b> The game, “Where Are My Ingredients?”, falls under the ownership of an organization known as “Quintets GDev”. This organization was brought together on a temporary basis to tackle a university group assignment of a module called Computer Games Design: High Concept & Preproduction. The group members of this organization comprise exactly five members as mentioned in the previous chapter. Each members assumes ownership within the framework of the organization roof that holds significance for all legal matters and rights concerning the game. The legal integrity and rights associated with the game will be diligently and strictly upheld and maintained by Quintets GDev.</sup>
