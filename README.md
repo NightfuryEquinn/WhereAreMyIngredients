@@ -1,14 +1,14 @@
 # WhereAreMyIngredients
 ### Organization: Quintets GDev
-#### Team Members: Yip Zi Xian, Goh Min Xuan, Goh Wai Kuen, Yap Jiann Yang, Tan Jia Yi
+#### 🤝 Team Members: Yip Zi Xian, Goh Min Xuan, Goh Wai Kuen, Yap Jiann Yang, Tan Jia Yi
 
 <hr/>
 
-<b>🔍 Quick Overview:</b>
+### 🔍 Quick Overview:
 
 “Where Are My Ingredients?” is a 2D pixelated platformer storytelling game where the player will need to control the character through the treacherous mountain and mysterious dark cavern cave in search for his missing ingredients to make the perfect sandwich for breakfast.
 
-<b>🛠 Tools and Resources used:</b>
+### 🛠 Tools and Resources used:
 1. Unity
 2. Visual Studio Code for C# script editing
 3. [Sprite, Tiles, User Interface](https://bdragon1727.itch.io/)
@@ -16,11 +16,9 @@
 5. Background - [Mountain](https://ansimuz.com/site/tag/background/) & [Cave](https://www.indiedb.com/news/devlog-6-background-art)
 6. [Abilities UI](https://www.artstation.com/artwork/D52G69)
 
-<b>📂 Game Documentation:</b> 
+### 📂 Game Documentation: [Here](https://github.com/NightfuryEquinn/WhereAreMyIngredients/blob/main/Quintets%20GDev%20Game%20Documentation%20-%20Where%20Are%20My%20Ingredients.pdf)
 
-[Read here](https://github.com/NightfuryEquinn/WhereAreMyIngredients/blob/main/Quintets%20GDev%20Game%20Documentation%20-%20Where%20Are%20My%20Ingredients.pdf)
-
-<b>🎥 Videos:</b>
+### 🎥 Videos:
 
 [Game Trailer](https://www.youtube.com/watch?v=a_710vQIHGQ)
 
